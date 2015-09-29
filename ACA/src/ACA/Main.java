@@ -8,5 +8,6 @@ public class Main {
 		System.out.println("Premier changement");
 		System.out.println("Deuxieme changement");
 		System.out.println("Troisième changement");
+		System.out.println("test");
 	}
 }
